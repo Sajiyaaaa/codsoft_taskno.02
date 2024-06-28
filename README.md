@@ -1,2 +1,2 @@
 # codsoft_taskno.02
-Data Science Internship
+TASK 02:MOVIE RATING PREDICITION
